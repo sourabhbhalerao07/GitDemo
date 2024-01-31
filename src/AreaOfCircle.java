@@ -14,6 +14,7 @@ public class AreaOfCircle {
 		
 		area=PI*r*r;
 		System.out.println("Area of Circle " + area);
+		System.out.println("Hello");
 	}
 
 }
